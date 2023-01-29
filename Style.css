@@ -1,0 +1,53 @@
+body {
+    background-color: white;
+}
+
+.Table {
+    background-color: aqua;
+}
+
+table {
+    background-color: white;
+    text-align: center;
+    table-layout: auto;
+    width: 300px;
+    border: 1px solid black;
+}
+
+td {
+    border: 1px solid black;
+    overflow: auto;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+.Re {
+    background-color: red;
+}
+
+.M {
+    background-color: green;
+}
+
+.C {
+    background-color: greenyellow;
+}
+
+.E {
+    background-color: aqua;
+}
+
+ul {
+    text-align: 0.5cm;
+    margin-left: 1cm;
+}
+
+.linkuri {
+    margin-left: 15cm;
+    margin-top: 2cm;
+}
+
+.Tabel {
+    margin-top: -10cm;
+    margin-left: 2cm;
+}
